@@ -1,7 +1,7 @@
 # class-validator-formik
 
 [![Actions Status](https://github.com/robertwestbury/class-validator-formik/workflows/CI/badge.svg)](https://github.com/robertwestbury/class-validator-formik/actions)
-![npm](https://img.shields.io/npm/dw/class-validator-formik)
+[![npm version](https://badge.fury.io/js/class-validator-formik.svg)](https://badge.fury.io/js/class-validator-formik)
 
 An easy and small library that allows you to validate [Formik](https://github.com/jaredpalmer/formik) forms with [class-validator](https://github.com/typestack/class-validator).
 
