@@ -30,7 +30,7 @@
     "trailingComma": "es5"
   },
   "name": "class-validator-formik",
-  "description": "⚙️ An easy and small library that allows you to validate Formik forms with class-validator",
+  "description": "An easy and small library that allows you to validate Formik forms with class-validator",
   "author": "Robert Westbury",
   "module": "dist/class-validator-formik.esm.js",
   "devDependencies": {

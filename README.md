@@ -1,6 +1,6 @@
-# ⚙️class-validator-formik
+# class-validator-formik
 
-[![Actions Status](https://github.com/robertwestbury/class-validator-formik/workflows/main/badge.svg)](https://github.com/robertwestbury/class-validator-formik/actions)
+[![Actions Status](https://github.com/robertwestbury/class-validator-formik/workflows/CI/badge.svg)](https://github.com/robertwestbury/class-validator-formik/actions)
 ![npm](https://img.shields.io/npm/dw/class-validator-formik)
 
 An easy and small library that allows you to validate [Formik](https://github.com/jaredpalmer/formik) forms with [class-validator](https://github.com/typestack/class-validator).
@@ -33,7 +33,7 @@ Or, without hooks:
 ```tsx
 import { createValidator } from 'class-validator-formik';
 
-<Formik ... validate="{createValidator(Schema)}">
+<Formik ... validate={createValidator(Schema)}>
   ...
 </Formik>
 
