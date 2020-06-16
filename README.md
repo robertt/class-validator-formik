@@ -39,7 +39,7 @@ import { createValidator } from 'class-validator-formik';
 
 ```
 
-Note: you might want to memoize this the `createSchema` function.
+Note: you might want to memoize this the `createValidator` function.
 
 ## Motivation
 
